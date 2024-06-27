@@ -1,5 +1,5 @@
 {
-  "name": "Stockology BE",
+  "name": "Stockology",
   "version": "1.0.0",
   "description": "Option Chain Analysis in realtime.",
   "main": "app.js",
